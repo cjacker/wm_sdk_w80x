@@ -24,12 +24,10 @@ wm-sdk-w80x
 
 # For Linux Users
 
-## Download Toolchains
+## Download Toolchain
+I upload the toolchain to github, you can download it from: https://github.com/cjacker/wm_sdk_w80x/releases/download/init/csky-elfabiv2-tools-x86_64-minilibc-20210423.tar.gz
 
-* https://occ.t-head.cn/community/download
-* You need to register an account for download
-* 导航->工具->工具链-800系列->(For now, it is V3.10.29)
-* Download according to your OS. For linux, download csky-elfabiv2-tools-x86_64-minilibc-yyyymmdd.tar.gz
+Or download it from https://occ.t-head.cn/community/download.
 
 ## Installation
 
