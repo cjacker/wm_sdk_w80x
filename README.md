@@ -29,11 +29,7 @@ wm-sdk-w80x
 * https://occ.t-head.cn/community/download
 * You need to register an account for download
 * 导航->工具->工具链-800系列->(For now, it is V3.10.29)
-* Download according to your OS version, e.g. for Ubuntu20.04, download csky-elfabiv2-tools-x86_64-minilibc-yyyymmdd.tar.gz
-* Alternative download links
-   * https://pan.baidu.com/s/1Mp-oHNM3k4Hb8vEybv8pZg code:vw42
-   * http://82.157.145.101/download/toolkits/winnermicro/w806/
-   * https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=csky-toolchain-bin (links in `source`)
+* Download according to your OS. For linux, download csky-elfabiv2-tools-x86_64-minilibc-yyyymmdd.tar.gz
 
 ## Installation
 
